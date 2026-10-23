@@ -1,4 +1,4 @@
-# Bike Rental Demand Prediction (PRCP-1018)
+# Bike Rental Demand Prediction 
 
 Machine learning project that analyzes and predicts daily bike rental demand
 from weather and seasonal data (Capital Bikeshare, Washington D.C., 2011-2012).
